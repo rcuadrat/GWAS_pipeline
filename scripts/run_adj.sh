@@ -1,1 +1,0 @@
-bash GWAS.sh -i ../new_bgen_michigan -e ../exclusion_table_adj.tsv -p ../cohort1_adj.phen -o GWAS_new_imputated_adj 
