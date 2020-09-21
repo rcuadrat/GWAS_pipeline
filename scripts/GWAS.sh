@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #GWAS analysis pipeline
-#start from here /projects/MEP/GWAS_on_ceramides/scripts.rcuadrat#
+#start from here /scripts #
 
 
 if [ "$1" == "-h" ]; then
